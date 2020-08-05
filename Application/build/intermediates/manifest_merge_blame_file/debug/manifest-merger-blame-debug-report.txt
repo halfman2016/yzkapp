@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2013 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.smartwebee.android.blespp"
+19    android:versionCode="1"
+20    android:versionName="1.4" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="18"
+23-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="24" />
+24-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml
+25
+26    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+27
+28
+29    <!--
+30    Declare this required feature if you want to make the app available to BLE-capable
+31    devices only.  If you want to make your app available to devices that don't support BLE,
+32    you should omit this in the manifest.  Instead, determine BLE capability by using
+33    PackageManager.hasSystemFeature(FEATURE_BLUETOOTH_LE)
+34    -->
+35
+36    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+36-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:32:5-79
+36-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:32:22-76
+37    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+37-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:33:5-81
+37-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:33:22-78
+38    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+38-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:34:5-74
+38-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:34:22-71
+39    <uses-permission android:name="android.permission.BLUETOOTH" />
+39-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:35:5-68
+39-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:35:22-65
+40
+41    <uses-feature
+41-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:37:5-90
+42        android:name="android.hardware.bluetooth_le"
+42-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:37:19-63
+43        android:required="true" />
+43-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:37:64-87
+44    <uses-feature
+44-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:38:5-80
+45        android:name="android.bluetooth.le"
+45-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:38:19-54
+46        android:required="true" />
+46-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:38:55-78
+47
+48    <application
+48-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:40:5-52:19
+49        android:debuggable="true"
+50        android:icon="@drawable/ic_launcher"
+50-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:41:9-45
+51        android:label="@string/app_name"
+51-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:40:18-50
+52        android:testOnly="true"
+53        android:theme="@android:style/Theme.Holo.Light" >
+53-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:42:9-56
+54        <activity
+54-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:43:9-49:20
+55            android:name="com.smartwebee.android.blespp.DeviceScanActivity"
+55-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:43:19-82
+56            android:label="@string/app_name" >
+56-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:44:13-45
+57            <intent-filter>
+57-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:45:13-48:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:46:17-68
+58-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:46:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:47:17-76
+60-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:47:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity android:name="com.smartwebee.android.blespp.BleSppActivity" />
+63-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:50:9-80
+63-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:50:19-78
+64
+65        <service
+65-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:9-106
+66            android:name="com.smartwebee.android.blespp.BluetoothLeService"
+66-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:18-81
+67            android:enabled="true" />
+67-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:82-104
+68    </application>
+69
+70</manifest>

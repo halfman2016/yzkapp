@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.smartwebee.android.blespp",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.4",
+        "outputFile": "Application-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.smartwebee.android.blespp",
+        "split": "",
+        "minSdkVersion": "18"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_edit_box_bg.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable\\edit_box_bg.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\anim_text_scale_in.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\anim\\text_scale_in.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\anim_text_scale_out.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\anim\\text_scale_out.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_ble_spp.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\ble_spp.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_normal_btn_bg.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable\\normal_btn_bg.xml"
+    }
+]
