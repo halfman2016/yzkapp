@@ -72,7 +72,7 @@ MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\jiang\.gradle\cach
 	android:label
 		ADDED from C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:40:18-50
 	android:icon
-		ADDED from C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:41:9-45
+		ADDED from C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:41:9-38
 	android:theme
 		ADDED from C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:42:9-56
 activity#com.smartwebee.android.blespp.DeviceScanActivity

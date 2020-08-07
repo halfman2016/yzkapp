@@ -511,9 +511,10 @@ int drawable abc_textfield_search_default_mtrl_alpha 0x7f06004a
 int drawable abc_textfield_search_material 0x7f06004b
 int drawable edit_box_bg 0x7f06004c
 int drawable ic_launcher 0x7f06004d
-int drawable normal_btn_bg 0x7f06004e
-int drawable notification_template_icon_bg 0x7f06004f
-int drawable tile 0x7f060050
+int drawable logo 0x7f06004e
+int drawable normal_btn_bg 0x7f06004f
+int drawable notification_template_icon_bg 0x7f060050
+int drawable tile 0x7f060051
 int id action0 0x7f070000
 int id action_bar 0x7f070001
 int id action_bar_activity_content 0x7f070002

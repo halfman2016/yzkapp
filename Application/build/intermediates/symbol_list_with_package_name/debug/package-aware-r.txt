@@ -512,6 +512,7 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable edit_box_bg
 drawable ic_launcher
+drawable logo
 drawable normal_btn_bg
 drawable notification_template_icon_bg
 drawable tile

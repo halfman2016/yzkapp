@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
         "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
         "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
     },

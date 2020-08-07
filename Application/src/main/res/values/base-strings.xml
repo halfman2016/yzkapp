@@ -16,13 +16,12 @@
 -->
 
 <resources>
-    <string name="app_name">BLE SPP</string>
+    <string name="app_name">易智控</string>
     <string name="intro_message">
         <![CDATA[
         
             
-            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-            to transmit arbitrary data between devices.
+            易智控是武汉熠智控科技有限公司使用BLE技术打造的沙盘智能控制APP
             
         
         ]]>
