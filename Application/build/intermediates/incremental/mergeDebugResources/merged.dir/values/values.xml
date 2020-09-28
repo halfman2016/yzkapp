@@ -234,6 +234,7 @@
     <string name="ble_need_location">Android6.0蓝牙需要开启</string>
     <string name="ble_not_supported">BLE is not supported</string>
     <string name="clean">清除</string>
+    <string name="close">关</string>
     <string name="connected">已连接</string>
     <string name="data_format_default">Ascii</string>
     <string name="data_format_hex">Hex</string>
@@ -259,6 +260,7 @@
     <string name="menu_scan">扫描</string>
     <string name="menu_stop">停止</string>
     <string name="no_data">No data</string>
+    <string name="open">开</string>
     <string name="receive_byte">Recv Bytes：</string>
     <string name="scan_ble_device">Scan BLE Device</string>
     <string name="scanning">寻找中......</string>

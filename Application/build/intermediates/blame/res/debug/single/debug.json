@@ -16,6 +16,10 @@
         "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\anim\\text_scale_in.xml"
     },
     {
+        "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\layout_shapan_ble.xml.flat",
+        "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\layout\\shapan_ble.xml"
+    },
+    {
         "merged": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\build\\intermediates\\res\\merged\\debug\\anim_text_scale_out.xml.flat",
         "source": "C:\\projects\\steam\\2020\\modules\\yzkapp\\BLE_SPP\\Application\\src\\main\\res\\anim\\text_scale_out.xml"
     },

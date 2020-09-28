@@ -62,7 +62,7 @@
 46-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:38:55-78
 47
 48    <application
-48-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:40:5-52:19
+48-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:40:5-53:19
 49        android:debuggable="true"
 50        android:icon="@drawable/logo"
 50-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:41:9-38
@@ -91,13 +91,16 @@
 63        <activity android:name="com.smartwebee.android.blespp.BleSppActivity" />
 63-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:50:9-80
 63-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:50:19-78
-64
-65        <service
-65-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:9-106
-66            android:name="com.smartwebee.android.blespp.BluetoothLeService"
-66-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:18-81
-67            android:enabled="true" />
-67-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:82-104
-68    </application>
-69
-70</manifest>
+64        <activity android:name="com.smartwebee.android.blespp.shapanctrlActivity" />
+64-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:9-55
+64-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:51:19-53
+65
+66        <service
+66-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:52:9-106
+67            android:name="com.smartwebee.android.blespp.BluetoothLeService"
+67-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:52:18-81
+68            android:enabled="true" />
+68-->C:\projects\steam\2020\modules\yzkapp\BLE_SPP\Application\src\main\AndroidManifest.xml:52:82-104
+69    </application>
+70
+71</manifest>

@@ -62,6 +62,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.smartwebee.android.blespp.BleSppActivity" />
+        <activity android:name="com.smartwebee.android.blespp.shapanctrlActivity" />
 
         <service
             android:name="com.smartwebee.android.blespp.BluetoothLeService"
